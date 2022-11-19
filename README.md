@@ -1,5 +1,5 @@
 # Dungeon-Crawler
-Fantasy style dungeon crawler made for fun. Currently being developed with Unity.
+Fantasy style dungeon crawler made for fun. Currently being developed with Unity version 2021.3.8f1.
 
 ------------------
 ## Status
