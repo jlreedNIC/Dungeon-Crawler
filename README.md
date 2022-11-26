@@ -1,10 +1,26 @@
 # Dungeon-Crawler
-Fantasy style dungeon crawler made for fun. Currently being developed with Unity version 2021.3.8f1.
 
 ------------------
 ## Status
 In-Development
 
+------------------
+## Genre:
+## Target Audience:
+## Controls: 
+## Thematic Setting:
+## Tech Stack:
+Unity, C#
+## Platform
+TBD
+## MVP Game Moment:
+## Game Summary: 
+Fantasy style dungeon crawler made for fun. Currently being developed with Unity version 2021.3.8f1.
+## Core Player Experience:
+## Design Pillars:
+## Remarkability:
+## Reference Games:
+## Feature Development Priorities:
 ------------------
 ## To clone
 - On GitHub.com, navigate to the main page of the repository.
